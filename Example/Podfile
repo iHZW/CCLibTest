@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CCLibTest_Tests' do
+  pod 'CCLibTest', :path => '../'
+  
+  
+end
