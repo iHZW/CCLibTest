@@ -1,0 +1,16 @@
+PODS:
+  - CCLibTest (0.1.0)
+
+DEPENDENCIES:
+  - CCLibTest (from `../`)
+
+EXTERNAL SOURCES:
+  CCLibTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CCLibTest: 705ca347265db7612dd43fe3b703bf5abf088d55
+
+PODFILE CHECKSUM: e3b65a562702464a1471b7e2cd800d1120ef1062
+
+COCOAPODS: 1.7.1
